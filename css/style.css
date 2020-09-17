@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgba(211, 211, 211, 0.4);
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.avatar-name {
+    display: flex;
+    align-items: center;
+    background-color: lightgreen;
+    margin-top: 5px;
+}
+
+.avatar img {
+    width: 230px;
+}
+
+.name {
+    padding-left: 50px;
+}
+
+h3 {
+    background-color: black;
+    width: 35%;
+    color: white;
+    text-align: center;
+    margin: 8px 0px;
+}
+
+h3 span {
+    color: black;
+}
+
+.contacts-birth {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.date {
+    color: rgb(212, 184, 25)
+}
+
+li {
+    margin-left: 15px;
+}
+
+.hidden {
+    margin-bottom: 5px;
+}
+
+
+
+
+
