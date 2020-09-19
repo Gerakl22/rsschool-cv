@@ -1,1 +1,1 @@
-# https://Gerakl22.github.io/rsschool-2020Q3-cv/cv
+# https://Gerakl22.github.io/rsschool-cv/cv
